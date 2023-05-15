@@ -1,0 +1,10 @@
+(max-width: 900px) {
+  .list-view.editing .toolbar,
+  .list-view.editing .contact-grid {
+    display: none;
+  }
+}
+a[highlight] {
+    font-weight: bold;
+    text-decoration: underline;
+}
